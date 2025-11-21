@@ -1,0 +1,1 @@
+/home/khm/src/DB/data_file_5.txt
